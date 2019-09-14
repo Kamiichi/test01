@@ -1,2 +1,4 @@
 # test01
-this is a test repository. that's why this is my first one.
+This is a test repository. That's why this is my first one.
+Created by Sep 2019.
+Post my test programs of C or Python.
